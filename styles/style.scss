@@ -255,7 +255,7 @@ body {
             list-style-type: none;
 
             li {
-                background: url(#{$imgsPath}/registrationMarker.png) no-repeat;
+                background: url(#{$imgPath}/registrationMarker.png) no-repeat;
                 padding-left: 42px;
 
                 &:not(:first-child) {
@@ -382,7 +382,7 @@ body {
 }
 
 .subscribe {
-    background: url(#{$imgsPath}/subscribe.jpg) no-repeat;
+    background: url(#{$imgPath}/subscribe.jpg) no-repeat;
     background-size: cover;
     padding-top: 64px;
     padding-bottom: 109px;
